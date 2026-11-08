@@ -1,4 +1,4 @@
-# Military Supply Chain Management System (Database)
+# Military Supply Chain Management System Database
 
 This repository contains the SQL script compatible with SQLite to create the structure and initial data of a database focused on managing military resources, logistics, and operations.
 
